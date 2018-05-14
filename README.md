@@ -1,0 +1,1 @@
+# gabrielcarvalho_monitoramento_temperatura_PC
