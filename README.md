@@ -5,3 +5,13 @@ Descrição: Monitorar a temperatura dos componentes de um PC, bem como exibir g
 Motivação: Oferecer ao usuário um controle constante, em tempo real, da temperatura dos principais componentes de sua máquina de forma que sejam evitados problemas decorrentes do superaquecimento tais como lentidão, travamento, perda de dados e até, em último caso, perda da máquina.
 
 Função: Através do recebimento dos dados de temperatura dos componentes, serão plotados gráficos das temperaturas nos principais componentes do PC como o processador, placa de vídeo, disco rígido e placa mãe.
+
+# Esboço GUI do programa
+
+A interface gráfica é constituída de: 
+Uma janela com a opção de fechar para sair. 
+Uma primeira opção de escolha de temperatura limite, onde o usuário escolhe a temperatura a partir da qual o programa emite um aviso de temperatura perigosa no processador.
+Um botão com a função de adquirir temperatura.
+Um gráfico em tempo real das temperaturas.
+Janela de valores em tempo real das temperaturas.
+Mensagem avisando se a temperatura está OK ou se passou da temperaturaa limite, perigosa.
