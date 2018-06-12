@@ -26,6 +26,9 @@ Além dos arquivos do QCustomPlot é preciso adicionar adicionar os arquivos "Mo
 
 
 Além disso, não consegui plotar o gráfico por dois motivos:
-1 - Ainda não consegui acesso às temperaturas do processador do PC
+
+1 - Ainda não consegui acesso às temperaturas do processador do PC.
+
 2 - O gráfico em questão não é simplesmente um gráfico comum, estático. Ele colhe os dados em tempo real e exibe o gráfico em tempo real.
+
 (segue um exemplo de gráfico estático no código para que seja verificado que o botão e o gráfico e suas respectivas programações estão funcionando)
