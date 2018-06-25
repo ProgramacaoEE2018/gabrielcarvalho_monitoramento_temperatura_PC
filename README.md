@@ -33,4 +33,22 @@ Além disso, não consegui plotar o gráfico por dois motivos:
 
 (segue um exemplo de gráfico estático no código para que seja verificado que o botão e o gráfico e suas respectivas programações estão funcionando)
 
+# Fluxograma do programa
+
 ![alt text](https://github.com/GabC20/Teste/blob/master/Fluxograma.PNG)
+
+# Interface gráfica do programa
+
+- Interface gráfica Principal:
+
+![alt text](https://github.com/GabC20/Teste/blob/master/Esbo%C3%A7oGUI-Interface_gr%C3%A1fica_principal.PNG)
+
+- Botão "Adquirir Temperatura do Processador" clicado:
+
+![alt text](https://github.com/GabC20/Teste/blob/master/Esbo%C3%A7oGUI-Adquirir_temperatura_processador.PNG)
+
+- Botão "Status Temperatura" clicado:
+
+![alt text](https://github.com/GabC20/Teste/blob/master/Esbo%C3%A7oGUI-Status_Temperatura.PNG)
+
+
