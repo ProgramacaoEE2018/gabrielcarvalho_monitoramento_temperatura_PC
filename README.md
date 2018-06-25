@@ -34,6 +34,9 @@ Mensagem avisando se a temperatura está OK ou se passou da temperatura limite, 
 
 É preciso baixar o arquivo.rar "QCustomPlot". Após isso, descompacte esses arquivos dentro da pasta do projeto e arraste o .h para o header e o .cpp para o source no QT  (Qt Creator 4.5.1 Based on Qt 5.10.1 (MSVC 2015, 32 bit) Built on Feb 10 2018 04:20:12.).
 
+# Diagrama de Blocos
+
+![alt text](https://github.com/GabC20/Teste/blob/master/Diagrama_Blocos.PNG)
 
 # Fluxograma do programa
 
