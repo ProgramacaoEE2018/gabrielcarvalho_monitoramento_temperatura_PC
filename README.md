@@ -53,4 +53,4 @@ Além disso, não consegui plotar o gráfico por dois motivos:
 
 ![alt text](https://github.com/GabC20/Teste/blob/master/Esbo%C3%A7oGUI-Status_Temperatura.PNG)
 
-
+# Instruções de compilação
