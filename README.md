@@ -32,19 +32,8 @@ Mensagem avisando se a temperatura está OK ou se passou da temperatura limite, 
 
 # Instruções de compilação
 
-É preciso baixar o arquivo.rar "QCustomPlot". Após isso, descompacte esses arquivos e arraste o .h para o header e o .cpp para o source no QT  (Qt Creator 4.5.1 Based on Qt 5.10.1 (MSVC 2015, 32 bit) Built on Feb 10 2018 04:20:12.).
+É preciso baixar o arquivo.rar "QCustomPlot". Após isso, descompacte esses arquivos dentro da pasta do projeto e arraste o .h para o header e o .cpp para o source no QT  (Qt Creator 4.5.1 Based on Qt 5.10.1 (MSVC 2015, 32 bit) Built on Feb 10 2018 04:20:12.).
 
-Além dos arquivos do QCustomPlot é preciso adicionar adicionar os arquivos "Monitoramento de Temperaturas.cpp", "Alarme.cpp"
-"Alarme.h", "Componente_Hardware.cpp", "Componente_Hardware.h", "stdafx.cpp", "stdafx.h", "targetver.h"
-
-
-Além disso, não consegui plotar o gráfico por dois motivos:
-
-1 - Ainda não consegui acesso às temperaturas do processador do PC.
-
-2 - O gráfico em questão não é simplesmente um gráfico comum, estático. Ele colhe os dados em tempo real e exibe o gráfico em tempo real.
-
-(segue um exemplo de gráfico estático no código para que seja verificado que o botão e o gráfico e suas respectivas programações estão funcionando)
 
 # Fluxograma do programa
 
