@@ -33,6 +33,7 @@ Mensagem avisando se a temperatura está OK ou se passou da temperatura limite, 
 # Instruções de compilação
 
 É preciso baixar o arquivo.rar "QCustomPlot". Após isso, descompacte esses arquivos dentro da pasta do projeto e arraste o .h para o header e o .cpp para o source no QT  (Qt Creator 4.5.1 Based on Qt 5.10.1 (MSVC 2015, 32 bit) Built on Feb 10 2018 04:20:12.).
+Colocando os arquivos .cpp em "Source", os arquivos .h em "Headers" e o arquivo .ui em "Forms" é preciso selecionar, na tela de TV localizada no canto inferior esquerdo, a opção de compilação MingW. Feito isso, clicar em "Build" e após "Run", também no canto inferior esquerdo.
 
 # Diagrama de Blocos
 
