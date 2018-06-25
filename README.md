@@ -1,3 +1,5 @@
+# Conceito, Função e Motivação
+
 Monitoramento de Temperaturas no PC
 
 Descrição: Monitorar a temperatura dos componentes de um PC, bem como exibir gráficos temporais das temperaturas.
